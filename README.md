@@ -1,2 +1,0 @@
-# RUST_PROJECTS
- 
